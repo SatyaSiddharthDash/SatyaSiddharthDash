@@ -18,5 +18,5 @@ I'm a Data Scientist currently working in the Risk Analytics domain
 
 - 🌱 I’m currently learning: Django
 - 💬 Ask me about: Machine Learning, Finance, Risk
-- 📫 How to reach me: [Linkedin]{https://www.linkedin.com/in/satyasiddharthdash/}
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/satyasiddharthdash/ "Satya Dash")
 - 😄 Pronouns: He, Him
