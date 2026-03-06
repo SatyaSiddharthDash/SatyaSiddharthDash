@@ -44,7 +44,9 @@ My focus areas are **AI for SDLC**, **AI for business value**, and **AI for ente
 
 ---
 
-## 🧭 Portfolio [![Link](https://img.shields.io/badge/Portfolio-Notion-000000?logo=notion&logoColor=white)](https://satyasiddharthdash.notion.site/Satya-Dash-2cbf9cb7f09b8046b7b7d30cc6ffb9de)
+## 🧭 Portfolio
+
+[![Link](https://img.shields.io/badge/Portfolio-Notion-000000?logo=notion&logoColor=white)](https://satyasiddharthdash.notion.site/Satya-Dash-2cbf9cb7f09b8046b7b7d30cc6ffb9de)
 
 ---
 
