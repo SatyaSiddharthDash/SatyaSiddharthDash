@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyasiddharthdash/)
 [![Email](https://img.shields.io/badge/Email-Contact-333333?logo=gmail&logoColor=white)](mailto:dash.sathyasiddharth@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?logo=notion&logoColor=white)](PASTE_NOTION_PORTFOLIO_HOME_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?logo=notion&logoColor=white)](https://satyasiddharthdash.notion.site/Satya-Dash-2cbf9cb7f09b8046b7b7d30cc6ffb9de)
 ![Status](https://img.shields.io/badge/Status-Building%20in%20Public-2E7D32)
 
 ---
@@ -22,7 +22,7 @@ My focus areas are **AI for SDLC**, **AI for business value**, and **AI for ente
 - Outputs: spend breakdown, merchant mapping, recurring charges, rule suggestions  
 - Metrics: categorization accuracy, time saved, reconciliation success rate  
 **Repo:** (coming soon)  
-**Case study (Notion):** PASTE_NOTION_CC_ANALYZER_CASE_STUDY
+**Case study (Notion):** (coming soon)
 
 ---
 
@@ -31,7 +31,7 @@ My focus areas are **AI for SDLC**, **AI for business value**, and **AI for ente
 - Source-of-truth → role-fit scoring → resume generation → QA checks  
 - Focus: consistency, evidence traceability, improvement loop over iterations  
 **Repo:** (coming soon)  
-**Case study (Notion):** PASTE_NOTION_RESUME_BUILDER_CASE_STUDY
+**Case study (Notion):** (coming soon)
 
 ---
 
@@ -40,29 +40,22 @@ My focus areas are **AI for SDLC**, **AI for business value**, and **AI for ente
 - Topic research → angle framing → script templates → publishing checklist  
 - Outputs: content calendar + templates + review loop  
 **Repo:** (coming soon)  
-**Case study (Notion):** PASTE_NOTION_YT_PLANNER_CASE_STUDY
+**Case study (Notion):** (coming soon)
 
 ---
 
-## 🧭 PM Portfolio Index (Notion = my website)
-All detailed artifacts live on Notion for easy navigation:
-
-- 🌐 **Portfolio Home:** PASTE_NOTION_PORTFOLIO_HOME_LINK  
-- 🧩 **PRDs:** PASTE_NOTION_PRD_INDEX_LINK  
-- 🔎 **User Research:** PASTE_NOTION_RESEARCH_INDEX_LINK  
-- 📈 **Experiment Logs & Metrics:** PASTE_NOTION_METRICS_INDEX_LINK  
-- 🧪 **Build Notes / Decision Journal:** PASTE_NOTION_BUILD_LOG_LINK  
+## 🧭 Portfolio [![Link](https://satyasiddharthdash.notion.site/Satya-Dash-2cbf9cb7f09b8046b7b7d30cc6ffb9de)
 
 ---
 
-## 🏢 What I do at work (short + crisp)
+## 🏢 What I do at work
 
 ### Coforge — Transformation Leader / Product Strategy (CEOment using ROI & risk-scenario models; faster leadership decisions (~40%) [1](https://ntlgnoida-my.sharepoint.com/personal/satya_dash_coforge_com/Documents/Career/Satya%20Siddharth%20Dash%20-%20CV_P%20(Jan%202026).pdf).pdf)  
 - Supported strategic M&A work via synergy-revenuevenue forecasts & risk models (long-term growth thesis) [1](https://ntlgnoida-my.sharepoint.com/personal/satya_dash_coforge_com/Documents/Career/Satya%20Siddharth%20Dash%20-%20CV_P%20(Jan%202026).pdf).pdf)  
 - Built advisor/analyst engagement engine generating $30M+ qualified pipeline [1](https://ntlgnoida-my.sharepoint.com/personal/satya_dash_coforge_com/Documents/Career/Satya%20Siddharth%20Dash%20-%20CV_P%20(Jan%202026).pdf).pdf)  
 - Standardised Sales PMO analytics + automated reporting saving 30+ hours/month [1](https://ntlgnoida-my.sharepoint.com/personal/satya_dash_coforge_com/Documents/Career/Satya%20Siddharth%20Dash%20-%20CV_P%20(Jan%202026).pdf).pdf).pdf)  
 
-### Coforge — AI Consultant (current focus)  
+### Coforge — AI Consultant (Current Focus) 
 - 🧑‍💻 **AI for SDLC:** internal AI adoption to improve delivery productivity & quality  
 - 💼 **AI for Business:** discover & shape client AI use-cases with value cases  
 - 🧾 **AI for Enterprise:** simplify PMO and internal ops using AI/automation  
