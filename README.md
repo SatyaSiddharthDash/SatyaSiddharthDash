@@ -50,10 +50,11 @@ My focus areas are **AI for SDLC**, **AI for business value**, and **AI for ente
 
 ## 🏢 What I do at work
 
-### Coforge — Transformation Leader / Product Strategy (CEOment using ROI & risk-scenario models; faster leadership decisions (~40%) [1](https://ntlgnoida-my.sharepoint.com/personal/satya_dash_coforge_com/Documents/Career/Satya%20Siddharth%20Dash%20-%20CV_P%20(Jan%202026).pdf).pdf)  
-- Supported strategic M&A work via synergy-revenuevenue forecasts & risk models (long-term growth thesis) [1](https://ntlgnoida-my.sharepoint.com/personal/satya_dash_coforge_com/Documents/Career/Satya%20Siddharth%20Dash%20-%20CV_P%20(Jan%202026).pdf).pdf)  
-- Built advisor/analyst engagement engine generating $30M+ qualified pipeline [1](https://ntlgnoida-my.sharepoint.com/personal/satya_dash_coforge_com/Documents/Career/Satya%20Siddharth%20Dash%20-%20CV_P%20(Jan%202026).pdf).pdf)  
-- Standardised Sales PMO analytics + automated reporting saving 30+ hours/month [1](https://ntlgnoida-my.sharepoint.com/personal/satya_dash_coforge_com/Documents/Career/Satya%20Siddharth%20Dash%20-%20CV_P%20(Jan%202026).pdf).pdf).pdf)  
+### Coforge — Transformation Leader / Product Strategy (CEO's Office)
+- Product alignment using ROI & risk-scenario models; faster leadership decisions (~40%)
+- Supported strategic M&A work via synergy-revenuevenue forecasts & risk models (long-term growth thesis)
+- Built advisor/analyst engagement engine generating $30M+ qualified pipeline
+- Standardised Sales PMO analytics + automated reporting saving 30+ hours/month
 
 ### Coforge — AI Consultant (Current Focus) 
 - 🧑‍💻 **AI for SDLC:** internal AI adoption to improve delivery productivity & quality  
@@ -63,20 +64,18 @@ My focus areas are **AI for SDLC**, **AI for business value**, and **AI for ente
 <details>
   <summary><bry><b>Earlier roles (expand)</b></summary>
 
-- **IIMA Recruitment Committee — Head, Digital Products:** shipped a 0→1 Recruitment Portal PWA; 4 major releases for 1100+ users [1](https://ntlgnoida-my.sharepoint.com/personal/satya_dash_coforge_com/Documents/Career/Satya%20Siddharth%20Dash%20-%20CV_P%20(Jan%202026).pdf).pdf)  
-- **Strategy& — Consulting Intern:** digital transformation roadmap + competitive intelligence dashboards [1](https://ntlgnoida-my.sharepoint.com/personal/satya_dash_coforge_com/Documents/Career/Satya%20Siddharth%20Dash%20-%20CV_P%20(Jan%202026).pdf).pdf)  
-- **Northern Trust — Risk Analytics:** automated regulatory reporting + executive dashboards [1](https://ntlgnoida-my.sharepoint.com/personal/satya_dash_coforge_com/Documents/Career/Satya%20Siddharth%20Dash%20-%20CV_P%20(Jan%202026).pdf).pdf)  
-- **Axis Bank — Credit Risk Analytics:** automated pipelines + RBI-compliant risk triggers [1](https://ntlgnoida-my.sharepoint.com/personal/satya_dash_coforge_com/Documents/Career/Satya%20Siddharth%20Dash%20-%20CV_P%20(Jan%202026).pdf).pdf)  
-
+- **IIMA Recruitment Committee — Head, Digital Products:** shipped a 0→1 Recruitment Portal PWA; 4 major releases for 1100+ users 
+- **Strategy& — Consulting Intern:** digital transformation roadmap + competitive intelligence dashboards 
+- **Northern Trust — Risk Analytics:** automated regulatory reporting + executive dashboards
+- **Axis Bank — Credit Risk Analytics:** automated pipelines + RBI-compliant risk triggers
 </details>
 
 ---
 
 ## 🧰 Toolbox
-- **Product:** discovery, PRDs, roadmaps, GTM, metrics, experiments [1](https://ntlgnoida-my.sharepoint.com/personal/satya_dash_coforge_com/Documents/Career/Satya%20Siddharth%20Dash%20-%20CV_P%20(Jan%202026).pdf).pdf)  
-- **AI/ML Product:** LLM workflows, RAG, evaluation, hallucination controls, agentic systems [1](https://ntlgnoida-my.sharepoint.com/personal/satya_dash_coforge_com/Documents/Career/Satya%20Siddharth%20Dash%20-%20CV_P%20(Jan%202026).pdf).pdf)  
-- **Tech:** Python, FastAPI, Docker, Git, LangChain/LlamaIndex, vector DBs (FAISS/Pine/Pinecone) [1](https://ntlgnoida-my.sharepoint.com/personal/satya_dash_coforge_com/Documents/Career/Satya%20Siddharth%20Dash%20-%20CV_P%20(Jan%202026).pdf).pdf)  
-
+- **Product:** discovery, PRDs, roadmaps, GTM, metrics, experiments
+- **AI/ML Product:** LLM workflows, RAG, evaluation, hallucination controls, agentic systems
+- **Tech:** Python, FastAPI, Docker, Git, LangChain/LlamaIndex, vector DBs (FAISS/Pine/Pinecone)
 ---
 
 ## 📌 Pinned Projects
@@ -85,9 +84,9 @@ My focus areas are **AI for SDLC**, **AI for business value**, and **AI for ente
 ---
 
 ## 🎓 Education
-- MBA —MBA — Indian Institute of Management Ahmedabad (2024) [1](https://ntlgnoida-my.sharepoint.com/personal/satya_dash_coforge_com/Documents/Career/Satya%20Siddharth%20Dash%20-%20CV_P%20(Jan%202026).pdf).pdf)  
-- Masters in Data Science — University of Edinburgh (2024(2024) [1](https://ntlgnoida-my.sharepoint.com/personal/satya_dash_coforge_com/Documents/Career/Satya%20Siddharth%20Dash%20-%20CV_P%20(Jan%202026).pdf).pdf)  
-- B.Sc. Mathematics — Sri Sathya Sai Institute of Higher Learning (201 (2018) [1](https://ntlgnoida-my.sharepoint.com/personal/satya_dash_coforge_com/Documents/Career/Satya%20Siddharth%20Dash%20-%20CV_P%20(Jan%202026).pdf).pdf)  
+- MBA —MBA — Indian Institute of Management Ahmedabad (2024)
+- Masters in Data Science — University of Edinburgh (2024(2024) 
+- B.Sc. Mathematics — Sri Sathya Sai Institute of Higher Learning (201 (2018)
 
 ---
 
