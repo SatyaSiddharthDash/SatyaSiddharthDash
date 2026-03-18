@@ -2,7 +2,7 @@
 **Product-leaning Strategy & Transformation Leader | PM-in-Transition | AI & Automation Builder**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyasiddharthdash/)
-[![Email](https://img.shields.io/badge/Email-Contact-333333?logo=gmail&logoColor=white)](mailto:dash.sathyasiddharth@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-333333?logo=gmail&logoColor=white)](mailto:picket-argot-5m@icloud.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?logo=notion&logoColor=white)](https://satyasiddharthdash.notion.site/Satya-Dash-2cbf9cb7f09b8046b7b7d30cc6ffb9de)
 ![Status](https://img.shields.io/badge/Status-Building%20in%20Public-2E7D32)
 
