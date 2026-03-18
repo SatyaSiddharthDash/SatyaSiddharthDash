@@ -95,4 +95,4 @@ My focus areas are **AI for SDLC**, **AI for business value**, and **AI for ente
 ## 🤝 Let’s connect
 If you’re building in **AI + Product**, or working on **AI adoption for SDLC / enterprise automation**, I’d love to chat.
 
-📩 dash.sathyasiddharth@gmail.com • 🔗 https://www.linkedin.com/in/saty/satyasiddharthdash/
+📩 [Email Me](mailto:picket-argot-5m@icloud.com) • 🔗 [My LinkedIn](https://www.linkedin.com/in/saty/satyasiddharthdash/)
